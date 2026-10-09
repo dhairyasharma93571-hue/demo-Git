@@ -1,4 +1,4 @@
 # demo-Git
 this is my first Git repository
 <br>
-Author - Dhairya Shrma
+Author - Dhairya Sharma
